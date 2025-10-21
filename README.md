@@ -61,20 +61,7 @@ Implementation was carried out in **PSCAD (for system modeling)** and **MATLAB (
 
 ---
 
-## 📊 Key Results  
 
-| Fault Type | Zone (δ⁺ᴵ) | Rf (Ω) | Conventional System | Renewable System |
-|-------------|-------------|--------|---------------------|------------------|
-| AG | 0° ± 15° | 1 | −0.0001 | −71.21 |
-| AG | 0° ± 15° | 20 | −0.0002 | −38.23 |
-| BCG | 180° ± 15° | 1 | 180.48 | 171.08 |
-| BCG | 180° ± 15° | 20 | −171.49 | 131.61 |
-| CA | −60° ± 15° | 1 | −60.00 | −26.16 |
-| CA | −60° ± 15° | 20 | −60.00 | −30.66 |
-
-✅ The method accurately classified fault types in both systems, even under variable renewable operation and fault resistance.  
-
----
 
 ## 🔧 Hardware Implementation  
 
